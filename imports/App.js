@@ -90,7 +90,7 @@ render the search result...?
             placeholder="(Search from item's name)"
           />
           <br></br>
-          <button /*onClick={this.search.bind(this)}*/>
+          <button onClick={this.search.bind(this)}>
             Search
           </button>
           <div>
